@@ -61,6 +61,7 @@ nav = [
         ] },
         { "Golden Plains" = [
             "regions/golden-plains/index.md",
+            { "Old Alue" = "regions/golden-plains/old-alue.md" },
             { "The Golden Circle" = "regions/golden-plains/golden-circle.md" },
         ]},
     ] },
@@ -77,6 +78,7 @@ nav = [
         { "The Herald" = "entities/the-herald.md" },
     ] },
     { "Appendix" = [
+        { "History of Alue" = "asides/history-of-alue.md" },
         { "Kaeroto Cultural Notes" = "asides/kaeroto-culture.md" },
         { "Magical Materials" = "asides/magical-materials.md" },
         { "Silou Forest Extras" = "asides/silou-forest.md" },
