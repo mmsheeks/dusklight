@@ -5,7 +5,7 @@
 
 ## Earliest Days
 
-Before the splendor that can be seen captured forever in stone today existed, there was a simple farming town. Alue, named for the river that ran along side it, which had been named long before anyone who lived there remembers, was that town. Set in the northern reaches of a vast and fertile landscape, the town was far from any neighboring kingdoms or villages.
+Before the splendor captured in stone today existed, there was a simple farming town. Alue, named for the river that ran along side it, which had been named long before anyone who lived there remembers, was that town. Set in the northern reaches of a vast and fertile landscape, the town was far from any neighboring kingdoms or villages.
 
 The people of the town, hard working and happy in a simple and safe home, spent their days farming the fields, turning their crops into food, and crafting the necessities for living a comfortable life in an easy land.
 
