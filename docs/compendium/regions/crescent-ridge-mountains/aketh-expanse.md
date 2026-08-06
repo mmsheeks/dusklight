@@ -1,6 +1,6 @@
 # Aketh Expanse
 
-At the center of the [Crescent Ridge Mountains](./index.md) there is a vast area of smooth rolling mountain ranges that would almost let you believe they were only hills. These mountains are old, with roots that run far deeper than most would imagine.
+At the center of the [Crescent Ridge Mountains](index.md) there is a vast area of smooth rolling mountain ranges that would almost let you believe they were only hills. These mountains are old, with roots that run far deeper than most would imagine.
 
 Accessible only to those who have already traveled up far taller mountains and crested much higher ridges, the Aketh Expanse is a largely safe and peaceful expanse of deceivingly kind terrain.
 
@@ -10,7 +10,7 @@ Accessible only to those who have already traveled up far taller mountains and c
 
 The Aketh Expanse is ringed on all sides by much steeper mountains that act as a barrier to most of the outside world. Pockets of these taller mountains break through within the expanse as well, giving a sense of the expanse being an interconnected network of vast and shallow valleys.
 
-These taller peaks rise from 14,000 feet to 16,000 feet above sea level. Among the tallest of these peaks are the three central members of [The Five Teeth](./the-five-teeth.md), which soar higher still.
+These taller peaks rise from 14,000 feet to 16,000 feet above sea level. Among the tallest of these peaks are the three central members of [The Five Teeth](the-five-teeth.md), which soar higher still.
 
 In addition to providing protection from outside forces, the barrier mountains also provide the Aketh Expanse with protection from most inclement weather, rendering the valleys of the expanse a year round moderate but comfortable environment.
 
@@ -30,7 +30,7 @@ In addition to providing protection from outside forces, the barrier mountains a
 
     The great workings of the ancient houses made this plateau and crafted this valley. This was their fortress, and they held it for as long as any of them lived. The mountains around them provided shelter, their constructed paradise provided nourishment, and their airships would carry them to the rest of the world to trade. The Great Houses lived here until nearly the end of [Nocturne No.2](../../events/nocturnes.md#nocturne-no2), their magic protecting them from the catastrophes befalling the remaining world. They did not ultimately survive.
     
-    In a last effort to protect and preserve their legacy, House Aketh set upon using the last of their strength to construct several shrines to their honor. These shrines largely leave out any mention of [Aoukethiir](../../entities/aoukethiir.md)'s summoning, or their partial roll in starting Nocturne No.2. The only shrine that makes mention of this is, in fact, located at the foot of the central peak that makes up [The Five Teeth](./the-five-teeth.md). This shrine, unlike the others, is left in damnation of the sorcerer Thume. While its construction is the same, the shrine to Thume makes no mention of House Aketh, as if in an attempt to distance themselves from the memory of the man who wrought the end of the world.
+    In a last effort to protect and preserve their legacy, House Aketh set upon using the last of their strength to construct several shrines to their honor. These shrines largely leave out any mention of [Aoukethiir](../../entities/aoukethiir.md)'s summoning, or their partial roll in starting Nocturne No.2. The only shrine that makes mention of this is, in fact, located at the foot of the central peak that makes up [The Five Teeth](the-five-teeth.md). This shrine, unlike the others, is left in damnation of the sorcerer Thume. While its construction is the same, the shrine to Thume makes no mention of House Aketh, as if in an attempt to distance themselves from the memory of the man who wrought the end of the world.
 
 ## Kaeroto Tribal Villages
 
