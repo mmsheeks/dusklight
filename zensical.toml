@@ -41,7 +41,7 @@ nav = [
     { "Home" = [
         "index.md",
         { "Reading Guide" = "home/reading-guide.md" },
-        { "Development Roadmap" = "home/roadmap.md" }
+        { "Development Roadmap" = "home/roadmap.md" } 
     ] },
     { "Player Guide" = [
         "guide/index.md",
