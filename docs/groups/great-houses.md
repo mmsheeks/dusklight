@@ -10,11 +10,13 @@ The Great House of Aketh was devoted to the service of the spirits of storm and 
 
 While House Aketh do in fact serve the spirits of storm and lightning, these are secondary spirits to the one they draw their power from. This little known fact is the source of their unmatched power in sorcery. All of the sorcerers of House Aketh are in fact bound to the deity Aoukethiir, The Unkind.
 
+It is through their bond with Aoukethiir that House Aketh was able to craft the great harness that binds together the [Aketh Expanse](../regions/crescent-ridge-mountains/aketh-expanse.md). Aoukethiir granted these few sorcerers access to a deific form of binding magic, allowing them to bind the earth itself to the shape of their choosing.
+
 ## House Barrow
 
 Spirits of beast and bird.
 
-## House Kinto
+## House Kintos
 
 Spirits of stone.
 
