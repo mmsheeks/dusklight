@@ -1,6 +1,6 @@
 # Old Alue
 
-At the northern edge of the [Golden Plains](./index.md) sits a city cast in stone. Though the roads that lead to it have become varying degrees of overgrown, save the ones built and maintained by todays society, the city itself gleams in near perfect condition. A perfect preservation in white stone of an entire city that stops abruptly just at the edge of the still imposing fortification wall. Old Alue stands as a remnant of a society that the world has long forgotten, its name only surviving through the precisely preserved stone of the signs and banners of the old city.
+At the northern edge of the [Golden Plains](index.md) sits a city cast in stone. Though the roads that lead to it have become varying degrees of overgrown, save the ones built and maintained by todays society, the city itself gleams in near perfect condition. A perfect preservation in white stone of an entire city that stops abruptly just at the edge of the still imposing fortification wall. Old Alue stands as a remnant of a society that the world has long forgotten, its name only surviving through the precisely preserved stone of the signs and banners of the old city.
 
 ## A Moment in Stone
 

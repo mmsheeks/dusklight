@@ -38,51 +38,61 @@ Copyright &copy; 2026 Martin Sheeks
 """
 
 nav = [
-    { "Introduction" = "index.md" },
-    { "History" = [
-        { "Daybreaks" = "events/daybreaks.md" },
-        { "Nocturnes" = "events/nocturnes.md" },
+    { "Home" = [
+        "index.md",
+        { "Reading Guide" = "home/reading-guide.md" }
     ] },
-    { "Regions" = [
-        { "Crescent Ridge Mountains" = [
-            "regions/crescent-ridge-mountains/index.md",
-            { "Aketh Expanse" = "regions/crescent-ridge-mountains/aketh-expanse.md" },
-            { "The Below" = "regions/crescent-ridge-mountains/below.md" },
-            { "The Five Teeth" = "regions/crescent-ridge-mountains/the-five-teeth.md" },
-            { "Jewels of The Ridge" = "regions/crescent-ridge-mountains/jewels-of-the-ridge.md" },
-            { "Northern & Southern Shelf" = "regions/crescent-ridge-mountains/the-shelves.md" },
+    { "Player Guide" = [
+        "guide/index.md",
+        { "Building Characters" = "guide/character-building.md" },
+    ] },
+    { "Compendium" = [
+        { "Introduction" = "compendium/index.md" },
+        { "History" = [
+            { "Daybreaks" = "compendium/events/daybreaks.md" },
+            { "Nocturnes" = "compendium/events/nocturnes.md" },
         ] },
-        { "Eastern Woodlands" = [
-            "regions/eastern-woodlands/index.md",
-            { "Hygrin" = "regions/eastern-woodlands/hygrin.md" },
-            { "Silou Forest" = "regions/eastern-woodlands/silou-forest.md" },
-            { "North Shelf Forest" = "regions/eastern-woodlands/north-shelf-forest.md" },
-            { "Lowlands Forest" = "regions/eastern-woodlands/lowlands-forest.md" },
+        { "Regions" = [
+            { "Crescent Ridge Mountains" = [
+                "compendium/regions/crescent-ridge-mountains/index.md",
+                { "Aketh Expanse" = "compendium/regions/crescent-ridge-mountains/aketh-expanse.md" },
+                { "The Below" = "compendium/regions/crescent-ridge-mountains/below.md" },
+                { "The Five Teeth" = "compendium/regions/crescent-ridge-mountains/the-five-teeth.md" },
+                { "Jewels of The Ridge" = "compendium/regions/crescent-ridge-mountains/jewels-of-the-ridge.md" },
+                { "Northern & Southern Shelf" = "compendium/regions/crescent-ridge-mountains/the-shelves.md" },
+            ] },
+            { "Eastern Woodlands" = [
+                "compendium/regions/eastern-woodlands/index.md",
+                { "Hygrin" = "compendium/regions/eastern-woodlands/hygrin.md" },
+                { "Silou Forest" = "compendium/regions/eastern-woodlands/silou-forest.md" },
+                { "North Shelf Forest" = "compendium/regions/eastern-woodlands/north-shelf-forest.md" },
+                { "Lowlands Forest" = "compendium/regions/eastern-woodlands/lowlands-forest.md" },
+            ] },
+            { "Golden Plains" = [
+                "compendium/regions/golden-plains/index.md",
+                { "Old Alue" = "compendium/regions/golden-plains/old-alue.md" },
+                { "The Golden Circle" = "compendium/regions/golden-plains/golden-circle.md" },
+            ]},
         ] },
-        { "Golden Plains" = [
-            "regions/golden-plains/index.md",
-            { "Old Alue" = "regions/golden-plains/old-alue.md" },
-            { "The Golden Circle" = "regions/golden-plains/golden-circle.md" },
-        ]},
-    ] },
-    { "Groups & Figures" = [
-        { "Great Houses" = "groups/great-houses.md" },
-        { "The High Sceptre" = "groups/the-high-sceptre.md" },
-        { "Mira" = "groups/mira.md" },
-        { "Order of Gold" = "groups/order-of-gold.md" },
-    ] },
-    { "Spirits & Deities" = [
-        { "Aoukethiir" = "entities/aoukethiir.md" },
-        { "The Bookkeeper" = "entities/the-bookkeeper.md" },
-        { "The Grovetender" = "entities/the-grovetender.md" },
-        { "The Herald" = "entities/the-herald.md" },
-    ] },
-    { "Appendix" = [
-        { "History of Alue" = "asides/history-of-alue.md" },
-        { "Kaeroto Cultural Notes" = "asides/kaeroto-culture.md" },
-        { "Magical Materials" = "asides/magical-materials.md" },
-        { "Silou Forest Extras" = "asides/silou-forest.md" },
-    ] },
+        { "Groups & Figures" = [
+            { "Great Houses" = "compendium/groups/great-houses.md" },
+            { "The High Sceptre" = "compendium/groups/the-high-sceptre.md" },
+            { "Mira" = "compendium/groups/mira.md" },
+            { "Order of Gold" = "compendium/groups/order-of-gold.md" },
+        ] },
+        { "Spirits & Deities" = [
+            { "Aoukethiir" = "compendium/entities/aoukethiir.md" },
+            { "The Bookkeeper" = "compendium/entities/the-bookkeeper.md" },
+            { "The Grovetender" = "compendium/entities/the-grovetender.md" },
+            { "The Herald" = "compendium/entities/the-herald.md" },
+        ] },
+        { "Appendix" = [
+            { "History of Alue" = "compendium/asides/history-of-alue.md" },
+            { "Kaeroto Cultural Notes" = "compendium/asides/kaeroto-culture.md" },
+            { "Magical Materials" = "compendium/asides/magical-materials.md" },
+            { "Silou Forest Extras" = "compendium/asides/silou-forest.md" },
+        ] }
+    ]},
 ] # Zensical supports both implicit navigation and explicitly defined navigation.
 # If you decide not to define a navigation here then Zensical will simply
 # derive the navigation structure from the directory structure of your
@@ -261,12 +271,12 @@ features = [
     # When tabs are enabled, top-level sections are rendered in a menu layer
     # below the header for viewports above 1220px, but remain as-is on mobile.
     # https://zensical.org/docs/setup/navigation/#navigation-tabs
-    #"navigation.tabs",
+    "navigation.tabs",
 
     # When sticky tabs are enabled, navigation tabs will lock below the header
     # and always remain visible when scrolling down.
     # https://zensical.org/docs/setup/navigation/#sticky-navigation-tabs
-    #"navigation.tabs.sticky",
+    "navigation.tabs.sticky",
 
     # A back-to-top button can be shown when the user, after scrolling down,
     # starts to scroll up again.

@@ -8,8 +8,8 @@ lipsum fill this in with region highlights.
 
 ### Cities & Settlements
 
-- [The Golden Circle](./golden-circle.md)
-- [Ruins of Old Alue](./old-alue.md)
+- [The Golden Circle](golden-circle.md)
+- [Ruins of Old Alue](old-alue.md)
 
 ### Other Major Landmarks
 

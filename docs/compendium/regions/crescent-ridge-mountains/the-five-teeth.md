@@ -4,7 +4,7 @@ Of the many peaks that make up the Crescent Ridge, the Five Teeth stand tallest 
 
 === "Player Knowledge"
 
-    The Five Teeth are largely unexplored by those who do not otherwise call them home. Four of the peaks are located in remote and hard to access sections of [The Crescent Ridge](./index.md), making reaching them a difficult proposition, let alone setting up camp to venture up farther. One is located in the easy traversable land of [The Aketh Expanse](./aketh-expanse.md), though its nature makes exploring it a difficult and unrewarding prospect.
+    The Five Teeth are largely unexplored by those who do not otherwise call them home. Four of the peaks are located in remote and hard to access sections of [The Crescent Ridge](index.md), making reaching them a difficult proposition, let alone setting up camp to venture up farther. One is located in the easy traversable land of [The Aketh Expanse](aketh-expanse.md), though its nature makes exploring it a difficult and unrewarding prospect.
 
     While some of these peaks have been explored or even settled by remote and hard to access settlements, the majority of the world considers them simply marvels to be observed from afar. On a perfectly clear day, all five teeth are visible from the base of the central one within the Expanse. 
 
@@ -22,20 +22,20 @@ Each of them do have specific names and references in cultures of the region, so
 
 ## Azimuth: The Northernmost Tooth
 
-Located in the [Northern Shelf](./northern-shelf.md), the northernmost tooth is known by the name of Azimuth. This peak has gone largely unexplored, as the terrain surrounding it is so unfriendly to travelers that the only viable way to approach it would by by airship.
+Located in the [Northern Shelf](northern-shelf.md), the northernmost tooth is known by the name of Azimuth. This peak has gone largely unexplored, as the terrain surrounding it is so unfriendly to travelers that the only viable way to approach it would by by airship.
 
 While it has yet to be confirmed, some sailors off the Northern coastline have reported seeing sheer stone well below the surface of the water on calm nights that much resembles the glassy nature of the Teeth.
 
 If this is true, it would imply that Azimuth is both taller and reaches much deeper than any of its surrounding peers. Given the sheer cliff of the Northern Shelf, it is possible that the formation that gave rise to that imposing peak does indeed stretch below the waves.
 
-Where the name Azimuth originates from has largely been lost to time, though the name has persisted. Current history traces its origins to one of the many black metallic stone statues erected throughout the [Aketh Expanse](./aketh-expanse.md).
+Where the name Azimuth originates from has largely been lost to time, though the name has persisted. Current history traces its origins to one of the many black metallic stone statues erected throughout the [Aketh Expanse](aketh-expanse.md).
 
 ??? warning "SPOILERS"
     An exploratory company from one of the Jewels of the Ridge has, indeed, flown an aircraft up to attempt to verify the height of Azimuth. While their craft could not fly high enough to crest the peak, they estimate its height at 17,500 feet.
 
 ## Kaerok: Northern Tribes Summit
 
-Located in the range of mountains bordering the North of the [Aketh Expanse](./aketh-expanse.md), Kaerok is one of the more approachable peaks among the Five Teeth. This is not, however, due to its natural position.
+Located in the range of mountains bordering the North of the [Aketh Expanse](aketh-expanse.md), Kaerok is one of the more approachable peaks among the Five Teeth. This is not, however, due to its natural position.
 
 The Kaeroto people of the Aketh Expanse, an isolated group of magical practitioners and carpenters, maintain a sprawling network of footbridges that climb from peak to peak towards Kaerok. At the top of this network, anchored fast into the glassy stone of the Tooth itself, is the sacred shrine these tribes call their spiritual home.
 
@@ -48,7 +48,7 @@ Devoted to a great spirit of thunder, Kaero, this shrine and the beliefs of thes
 
 ## Daggertip: The Central Peak
 
-In sharp contrast to the surrounding subdued terrain of the [Aketh Expanse](./aketh-expanse.md), Daggertip rises at a nearly vertical angle up through nearly the very center of the entire Crescent Ridge mountain range.
+In sharp contrast to the surrounding subdued terrain of the [Aketh Expanse](aketh-expanse.md), Daggertip rises at a nearly vertical angle up through nearly the very center of the entire Crescent Ridge mountain range.
 
 Adventuring parties who have traveled close to the base in the Aketh Expanse say it pierces through the rolling smooth mountains like the tip of a sharp blade thrust up from beneath the soil. They report that the mountain is made of an almost glassy obsidian like material, distinctly unlike the surrounding terrain.
 
@@ -62,7 +62,7 @@ Given the sheer challenge the climb presents, none have made an attempt in recen
 
 ## Iiblo: Southern Jewel Peak
 
-Iiblo, or more accurately the range surrounding it, is home to one of the [Jewels of the Ridge](./jewels-of-the-ridge.md). This mighty mining city is carved into the foothills of the Ohgway Range with deep branching tunnels of the mines that reach far below the mountains.
+Iiblo, or more accurately the range surrounding it, is home to one of the [Jewels of the Ridge](jewels-of-the-ridge.md). This mighty mining city is carved into the foothills of the Ohgway Range with deep branching tunnels of the mines that reach far below the mountains.
 
 These mines eventually encounter the roots of Iiblo, so named by the miners who dig there. These glassy obsidian tendrils stretch down through the mountain range as deep as anyone has ever mined. The Ohgway miners have made it a generations long mission to mine and map the roots of Iiblo, having found great riches in the enchanted minerals that surround these deep and wide roots of dark stone.
 
