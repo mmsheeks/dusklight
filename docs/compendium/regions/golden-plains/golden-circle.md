@@ -1,6 +1,6 @@
 # The Golden Circle
 
-The Golden Circle is home to an ancient order of knights and practitioners of magic based in the heart of [The Golden Plains](../regions/golden-plains/index.md). The sprawling compound features lush gardens, temples dedicated to the religion practiced by members of the order, libraries, training fields, a well appointed arts district, and comfortable living quarters for both members of the order and their guests. All of this is surrounded by miles of circling golden farm land that the order maintains to provide for itself and those who need the aid of the knights.
+The Golden Circle is home to an ancient order of knights and practitioners of magic based in the heart of [The Golden Plains](../golden-plains/index.md). The sprawling compound features lush gardens, temples dedicated to the religion practiced by members of the order, libraries, training fields, a well appointed arts district, and comfortable living quarters for both members of the order and their guests. All of this is surrounded by miles of circling golden farm land that the order maintains to provide for itself and those who need the aid of the knights.
 
 ## The Halo & Surrounding Region
 

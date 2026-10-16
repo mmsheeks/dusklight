@@ -44,8 +44,23 @@ nav = [
         { "Development Roadmap" = "home/roadmap.md" } 
     ] },
     { "Player Guide" = [
-        "guide/index.md",
+        { "Introduction" = "guide/index.md"},
         { "Building Characters" = "guide/character-building.md" },
+        { "Skills" = [
+             "guide/skills/index.md",
+             { "Basic Skills" = "guide/skills/basic.md" },
+             { "Advanced Skills" = [
+                "guide/skills/advanced/index.md"
+             ]},
+             { "Custom Skills" = "guide/skills/custom.md" }
+        ] },
+        { "World Setting" = [
+            { "Cultures & Societies" = [
+                "guide/world/social/index.md"
+            ]},
+            { "Geographic Regions" = "guide/world/regions.md" },
+            { "Faiths & Religions" = "guide/world/religions.md" }
+        ]}
     ] },
     { "Compendium" = [
         { "Introduction" = "compendium/index.md" },

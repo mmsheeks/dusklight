@@ -4,7 +4,7 @@ There need to be three. Flesh the rest out later.
 
 ## Batroz: Jewel of the North
 
-Sitting at the head of a wide inlet that is surrounded on all sides by steep mountains at the Eastern edge of the [Northern Shelf](northern-shelf.md) is the fortress city of Batroz.
+Sitting at the head of a wide inlet that is surrounded on all sides by steep mountains at the Eastern edge of the [Northern Shelf](./the-shelves.md#northern-shelf) is the fortress city of Batroz.
 
 A large and sprawling dockyard sits on the water, leading up the shore to massive gates in an even more imposing [arcsteel](../../asides/magical-materials.md#arcsteel) wall. Beyond the wall lies a bustling city full of tall metal and stone buildings that set themselves all the way back into the side of the mountain. These towering structures are lit by a warm dancing light that pours up the walls from the busy markets below.
 
