@@ -27,9 +27,16 @@ If something you need broke while you were on your adventure and you've got the 
 
 ## Healing Wounds
 
-You can spend one downtime action to heal your own wounds. Roll a flat **2d6** and recover that many hit points. If you are [gravely wounded](./character-death.md#gravely-wounded), you may stabilize your condition, but you may not heal above 4hp.
+You can spend one downtime action to heal your own wounds. Roll a flat **2d6** and recover that many hit points, up to your maximum. This action may only be taken once per character each downtime.
 
-This action may only be taken once per character each downtime.
+### Healing Grave Wounds
+
+If you are [Gravely Wounded](./character-death.md#gravely-wounded), you may instead stabilize your wounds at 4hp, but clearing them will require extra conditions to be met.
+
+In order to clear the **Gravely Wounded** condition, you must be taking downtime near a medical facility of some type, or a member of your party must have a healing ability that allows you to clear grave wounds.
+
+If you are near a medical facility, you may spend your full downtime resting there instead of with your party to clear your wounds. Heal normally, starting from 4hp. If you are relying on a party member, the duration and efficacy of the healing will vary based on the skill they are using.
+
 
 ## Shopping
 
