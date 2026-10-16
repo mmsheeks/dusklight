@@ -1,19 +1,21 @@
 # Player Guide
 
-Welcome. For now, this will be nearly every players first introduction to the world and systems of Dusklight. This guide aims to introduce you to the character building system, and the current setting of the world. Throughout this guide you will find links into the [Compendium](../compendium/index.md), which can provide further context on specific history and concepts.
+Welcome. For now, this will be nearly every players first introduction to the world and systems of Dusklight. This guide aims to introduce you to the character building system, and the current setting of the world. 
 
-## Dusklight Systems
+Throughout this guide you will find links into the [Compendium](../compendium/index.md), which can provide further context on specific history and concepts, as well as [DusklightDB::](), a very early alpha index of information for players.
+
+## Diving In
 
 Dusklight runs on a fully custom game system, but you're likely to be familiar with several concepts. The system borrows from familiar favorites like Dungeons & Dragons, Monster of The Week, and Pathfinder. 
 
-### Building Characters
+I'd recommend getting your bearings by giving each of the articles in the **Getting Started** section here a quick read in order. They will introduce you to the core systems mechanics at play in the
 
-You'll be building out a character, which is familiar, and we'll be using milestone based leveling. But where you may be used to the restrictions of specific classes, Dusklight characters are instead built piece by piece using specific character [skills](./skills/index.md). 
+## Systems Reference
 
-To make things easier, there are a collection of pre-built [archetypes](./archetypes/index.md) that bundle together skills that are designed to work well together. These aren't required, however, and you can build out fully [custom skills](./skills/custom.md) to create unique characters, so long as your keeper approves your build.
+This guide also provides a quick reference for the game systems in Dusklight. These are a bit more in depth, so feel free to read them if you're curious, or use them as reference when you need them.
 
-### World Setting
+## World Setting
 
-The world is populated with a variety of different [societies](./world/social/index.md) spread across several geographical [regions](./world/regions.md). There are also a variety of [worship practices](./world/religions.md) that are tied to specific deities or spirits. 
+While there is a wealth of information about the broader world setting in the [Compendium](../compendium/index.md), that version of the world lore is riddled with spoilers.
 
-These all come with specific details to be aware of, depending on how you build your character out. Different skills and backgrounds are associated with different parts of the world, and come with different conflicts.
+To help provide a more approachable introduction, information about the geographical [regions](./world/regions.md), [cultures](./world/social/index.md), and [religious faiths](./world/religions.md) has been summarized in this guide, with links to more detailed Compendium articles.

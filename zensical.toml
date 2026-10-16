@@ -45,14 +45,24 @@ nav = [
     ] },
     { "Player Guide" = [
         { "Introduction" = "guide/index.md"},
-        { "Building Characters" = "guide/character-building.md" },
-        { "Skills" = [
-             "guide/skills/index.md",
-             { "Basic Skills" = "guide/skills/basic.md" },
-             { "Advanced Skills" = [
-                "guide/skills/advanced/index.md"
-             ]},
-             { "Custom Skills" = "guide/skills/custom.md" }
+        { "Getting Started" = [
+            { "Roles at the Table" = "guide/systems/players-keepers.md" },
+            { "Basic Character Stats" = "guide/characters/character-stats.md"},
+            { "Character Backgrounds" = "guide/characters/character-backgrounds.md" },
+            { "Skills" = [
+                "guide/skills/index.md",
+                { "Basic Skills" = "guide/skills/basic.md" },
+                { "Special Skills" = [
+                    "guide/skills/special/index.md"
+                ]},
+                { "Custom Skills" = "guide/skills/custom.md" }
+            ]}
+        ] },
+        { "Game Systems" = [
+            { "Combat" = "guide/systems/combat.md" },
+            { "Death & Rebirth" = "guide/systems/character-death.md" },
+            { "Travel" = "guide/systems/travel.md" },
+            { "Trade & Bartering" = "guide/systems/trade.md" }
         ] },
         { "World Setting" = [
             { "Cultures & Societies" = [
@@ -246,7 +256,7 @@ features = [
     # This feature turns on navigation elements in the footer that allow the
     # user to navigate to a next or previous page.
     # https://zensical.org/docs/setup/footer/#navigation
-    # "navigation.footer",
+    "navigation.footer",
 
     # When section index pages are enabled, documents can be directly attached
     # to sections, which is particularly useful for providing overview pages.
