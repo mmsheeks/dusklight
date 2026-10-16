@@ -47,17 +47,21 @@ nav = [
         { "Introduction" = "guide/index.md"},
         { "Getting Started" = [
             { "Roles at the Table" = "guide/systems/players-keepers.md" },
-            { "Basic Character Stats" = "guide/characters/character-stats.md"},
-            { "Character Backgrounds" = "guide/characters/character-backgrounds.md" },
+            { "Basic Character Stats" = "guide/characters/stats.md"},
+            { "Character Backgrounds" = "guide/characters/backgrounds.md" },
             { "Skills" = [
                 "guide/skills/index.md",
+                { "Basic Skills" = "guide/skills/basic.md" },
                 { "Special Skills" = [
                     "guide/skills/special/index.md"
                 ]},
                 { "Custom Skills" = "guide/skills/custom.md" }
-            ]}
+            ]},
+            { "Archetypes" = "guide/characters/archetypes.md" },
+            { "Character Building" = "guide/characters/building-characters.md" }
         ] },
         { "Game Systems" = [
+            "guide/systems/index.md",
             { "Combat" = "guide/systems/combat.md" },
             { "Death & Rebirth" = "guide/systems/character-death.md" },
             { "Downtime" = "guide/systems/downtime.md" },

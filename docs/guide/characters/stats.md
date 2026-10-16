@@ -42,7 +42,7 @@ These stats aren't rolled like the rest, and are instead each handled in their o
 
 ### Character Health
 
-Your health is a function of your Strength, and an non-rolled base stat called **Endurance**. All characters have a base Endurance of 10. You add 2 times your strength score to your base endurance to get your maximum health.
+Your health is a function of your Strength, and an non-rolled base stat called **Endurance**. All characters have a base Endurance of 10, add your **strength** score to your base endurance to get your maximum health.
 
 As you might notice, that's a pretty small starting HP pool, averaging around 12-14. You shouldn't expect your character to feel much more durable than this at any given point in your playthrough. Dusklight is a game with real risks. You will get stronger, but so will the world around you. It is important to approach combat strategically, lest you need to learn more about [Character death](../systems/character-death.md).
 
