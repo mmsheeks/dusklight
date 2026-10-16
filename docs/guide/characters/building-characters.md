@@ -22,7 +22,11 @@ Write down the backgrounds you pick, and make a note of the skills that come wit
 
 In addition to the basic skills and your background skills, you may also select up to 2 unique skills that your character has specifically invested time into. Both of these skills start at level 1. Look through the [DDB:Skills]() archive to find skills that match your character build, and work with your Keeper to finalize these choices.
 
-## Step 3: Guiding Questions
+## Step 3: Gear
+
+Stub
+
+## Step 4: Guiding Questions
 
 Finally, answer a the following questions for your character to establish who they are coming into the campaign and their window to the wider world. Your character doesn't need to know the answers to all of these questions, but it's important you think about them as you begin playing them in the world.
 

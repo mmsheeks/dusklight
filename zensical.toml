@@ -63,8 +63,9 @@ nav = [
         { "Game Systems" = [
             "guide/systems/index.md",
             { "Combat" = "guide/systems/combat.md" },
-            { "Death & Rebirth" = "guide/systems/character-death.md" },
+            { "Character Death" = "guide/systems/character-death.md" },
             { "Downtime" = "guide/systems/downtime.md" },
+            { "Magic" = "guide/systems/magic.md" },
             { "Travel" = "guide/systems/travel.md" },
             { "Trade & Bartering" = "guide/systems/trade.md" }
         ] },
