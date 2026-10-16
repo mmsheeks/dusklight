@@ -44,8 +44,38 @@ nav = [
         { "Development Roadmap" = "home/roadmap.md" } 
     ] },
     { "Player Guide" = [
-        "guide/index.md",
-        { "Building Characters" = "guide/character-building.md" },
+        { "Introduction" = "guide/index.md"},
+        { "Getting Started" = [
+            { "Roles at the Table" = "guide/systems/players-keepers.md" },
+            { "Basic Character Stats" = "guide/characters/stats.md"},
+            { "Character Backgrounds" = "guide/characters/backgrounds.md" },
+            { "Skills" = [
+                "guide/skills/index.md",
+                { "Basic Skills" = "guide/skills/basic.md" },
+                { "Special Skills" = [
+                    "guide/skills/special/index.md"
+                ]},
+                { "Custom Skills" = "guide/skills/custom.md" }
+            ]},
+            { "Archetypes" = "guide/characters/archetypes.md" },
+            { "Character Building" = "guide/characters/building-characters.md" }
+        ] },
+        { "Game Systems" = [
+            "guide/systems/index.md",
+            { "Combat" = "guide/systems/combat.md" },
+            { "Character Death" = "guide/systems/character-death.md" },
+            { "Downtime" = "guide/systems/downtime.md" },
+            { "Magic" = "guide/systems/magic.md" },
+            { "Travel" = "guide/systems/travel.md" },
+            { "Trade & Bartering" = "guide/systems/trade.md" }
+        ] },
+        { "World Setting" = [
+            { "Cultures & Societies" = [
+                "guide/world/social/index.md"
+            ]},
+            { "Geographic Regions" = "guide/world/regions.md" },
+            { "Faiths & Religions" = "guide/world/religions.md" }
+        ]}
     ] },
     { "Compendium" = [
         { "Introduction" = "compendium/index.md" },
@@ -231,7 +261,7 @@ features = [
     # This feature turns on navigation elements in the footer that allow the
     # user to navigate to a next or previous page.
     # https://zensical.org/docs/setup/footer/#navigation
-    # "navigation.footer",
+    "navigation.footer",
 
     # When section index pages are enabled, documents can be directly attached
     # to sections, which is particularly useful for providing overview pages.

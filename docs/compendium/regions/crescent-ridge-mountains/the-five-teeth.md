@@ -22,7 +22,7 @@ Each of them do have specific names and references in cultures of the region, so
 
 ## Azimuth: The Northernmost Tooth
 
-Located in the [Northern Shelf](northern-shelf.md), the northernmost tooth is known by the name of Azimuth. This peak has gone largely unexplored, as the terrain surrounding it is so unfriendly to travelers that the only viable way to approach it would by by airship.
+Located in the [Northern Shelf](./the-shelves.md#northern-shelf), the northernmost tooth is known by the name of Azimuth. This peak has gone largely unexplored, as the terrain surrounding it is so unfriendly to travelers that the only viable way to approach it would by by airship.
 
 While it has yet to be confirmed, some sailors off the Northern coastline have reported seeing sheer stone well below the surface of the water on calm nights that much resembles the glassy nature of the Teeth.
 

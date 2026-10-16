@@ -16,4 +16,4 @@ I wanted to include a note here on time. Throughout the compendium and guide you
 
 **Nocturnes** are times of catastrophe, be that swift, or slow. History may or may not survive a Nocturne, leading to new eras in the Daybreaks following them without knowledge of the old.
 
-The current historical era spans from the start of [The Second Daybreak](events/daybreaks.md#second-daybreak), which was roughly 1200 years ago. For sake of flexibility, I'm not going to be exactly strict on dates. Expect things to be in the correct order, and roughly paced as intended, but some things may move around a bit. The important thing here is to keep in mind the world is much older than its inhabitants can recall.
+The current historical era spans from the start of [The Second Daybreak](./compendium/events/daybreaks.md#second-daybreak), which was roughly 1200 years ago. For sake of flexibility, I'm not going to be exactly strict on dates. Expect things to be in the correct order, and roughly paced as intended, but some things may move around a bit. The important thing here is to keep in mind the world is much older than its inhabitants can recall.
