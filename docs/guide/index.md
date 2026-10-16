@@ -2,10 +2,10 @@
 
 Welcome. For now, this will be nearly every players first introduction to the world and systems of Dusklight. This guide aims to introduce you to the character building system, and the current setting of the world. 
 
-Throughout this guide you will find links into the [Compendium](../compendium/index.md), which can provide further context on specific history and concepts. You'll also find links to the [Dusklight DB](), an index of information for character building.
+Throughout this guide you will find links into the [Dusklight DB](). DDB is an external tool under development to provide easy access to catalogues of information, and an online character builder.
 
 !!! note
-    [DDB::]() links to DusklightDB may not go anywhere just yet as I'm still in very early development on that tool.
+    [DDB::]() links to DusklightDB don't go anywhere just yet as I'm still in very early development on that tool.
 
 ## Diving In
 
