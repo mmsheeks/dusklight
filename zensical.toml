@@ -51,7 +51,6 @@ nav = [
             { "Character Backgrounds" = "guide/characters/character-backgrounds.md" },
             { "Skills" = [
                 "guide/skills/index.md",
-                { "Basic Skills" = "guide/skills/basic.md" },
                 { "Special Skills" = [
                     "guide/skills/special/index.md"
                 ]},

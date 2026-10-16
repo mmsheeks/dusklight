@@ -21,5 +21,10 @@ Basic skills are available to all characters. This covers things most common adv
 
 At level one, these don't provide too much benefit. However, most basic skills can be trained during [Downtime](../systems/downtime.md), and will also increase in level as you use them for relevant tasks during the campaign.
 
-## Special Skills
+## Special & Custom Skills
 
+Special skills are skills that you acquire either through your character's [Background](../characters/character-backgrounds.md), or through training or unique opportunities during your campaign. These are where the flavor of your character really starts to come together.
+
+Custom skills are built collaboratively by you and the Keeper and allow you to fill gaps in your character the official skill sets don't plan for. Each character is a unique being in the world, so this gives you the flexibility to really define how your character works in fine grain detail if you wish.
+
+Special & Custom skills are a bit more complicated than their basic counterparts. Read their individual detail pages to learn more.
